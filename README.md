@@ -12,3 +12,6 @@ Get started:
 3. Install anaconda (python3) and create an environment "airsim" to tidy up things.
 4. pip3 install msgpack-rpc-python and pip3 install airsim inside the newly created "airsim" environment.
 5. Just play around with the repo. Enjoy.
+
+Original repo: https://github.com/microsoft/AirSim
+
