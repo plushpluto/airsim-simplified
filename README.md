@@ -10,7 +10,8 @@ Get started:
 1. Install docker and nvidia-docker2.
 2. Install anaconda (python3) and create an environment "airsim" to tidy up things.
 3. pip3 install msgpack-rpc-python and pip3 install airsim inside the newly created "airsim" environment.
-4. Just play around with the repo. Enjoy.
+4. Run 0_, 1_, and 2_ scripts to build the setup.
+5. Just play around with the scripts from the python folder. Enjoy.
 
 Original repo: https://github.com/microsoft/AirSim
 
