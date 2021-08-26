@@ -13,4 +13,5 @@ Get started:
 4. Just play around with the repo. Enjoy.
 
 Original repo: https://github.com/microsoft/AirSim
+Original paper: 
 
