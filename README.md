@@ -7,11 +7,10 @@ Hardware requirements: (Taken from the original repo)
 We recommend GPUs such as NVidia 1080 or NVidia Titan series with powerful desktop such as one with 64GB RAM, 6+ cores, SSDs and 2-3 displays (ideally 4K). We have found HP Z840 work quite well for our needs. The development experience on high-end laptops is generally sub-par compared to powerful desktops however they might be useful in a pinch. You generally want laptops with discrete NVidia GPU (at least M2000 or better) with 64GB RAM, SSDs and hopefully 4K display. We have found models such as Lenovo P50 work well for our needs. Laptops with only integrated graphics might not work well.
 
 Get started:
-1. Install docker.
-2. Install nvidia-docker2.
-3. Install anaconda (python3) and create an environment "airsim" to tidy up things.
-4. pip3 install msgpack-rpc-python and pip3 install airsim inside the newly created "airsim" environment.
-5. Just play around with the repo. Enjoy.
+1. Install docker and nvidia-docker2.
+2. Install anaconda (python3) and create an environment "airsim" to tidy up things.
+3. pip3 install msgpack-rpc-python and pip3 install airsim inside the newly created "airsim" environment.
+4. Just play around with the repo. Enjoy.
 
 Original repo: https://github.com/microsoft/AirSim
 
